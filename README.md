@@ -21,4 +21,18 @@ The Ankit-Manufacturing want to create an annual sales report for using availabl
 •	Built an interactive dashboard using pivot charts and slicers.
 •	Extracted insights to support business decisions and recommendations.
 
+## Project Insights
+•	Women customers contributed to ~65% of total orders, indicating higher engagement.
+•	Maharashtra, Karnataka, and Uttar Pradesh were the top 3 states in total sales.
+•	Adults aged 30–49 made up around 50% of total purchases.
+•	Amazon, Flipkart, and Myntra were the leading sales channels.
+•	Over 90% of orders were successfully delivered, showing strong logistics.
+•	Top-selling categories included fashion and electronics (based on available data).
+
+## Final Conclusion
+To boost future sales, Vrinda Store should focus on women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh, as this segment shows the highest purchase activity. Targeted marketing, product personalization, and stronger presence on leading platforms like Amazon, Flipkart, and Myntra can further enhance customer engagement and sales growth in 2023 and 2024.
+
+
+
+
 
